@@ -1,0 +1,11 @@
+Mini heatedbed design for RepRap atom 3D printer.
+
+Cad Data: EAGLE version 6.4
+Material: FR4 1oz 2layers 1.6mm
+Dimension: 155.5 x 158.5mm (version 1.1)
+Fixing holes: 3.2mm x 4 (145.7 x 145.7mm)
+Heater area: 140 x 140mm
+Usage: DC12V 85W ±10%
+SMD thermistor: NTCS0603E3104FXT
+
+Note: Use 'thermistortables.h' which included in this folder for Marlin V1.0 (the latest version).

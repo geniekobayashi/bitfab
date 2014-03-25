@@ -1,0 +1,11 @@
+Hexagon heatedbed design for RepRap delta 3D printer.
+
+Cad Data: EAGLE version 6.4
+Material: FR4 1oz 2layers 1.6mm
+Dimension: 180.25mm x 206.1mm
+Fixing holes: 3.2mm x 6 (192mm dia.)
+Heater area: 170mm dia.
+Usage: DC12V 100W ±10%
+SMD thermistor: NTCS0603E3104FXT
+
+Note: Use 'thermistortables.h' which included in this folder for Marlin V1.0 (the latest version).

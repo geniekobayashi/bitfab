@@ -1,0 +1,11 @@
+Optical endstop switch design for RepRap 3D printer.
+
+Cad Data: EAGLE version 6.4
+V1.0 - Original
+V1.1 - Black resist with original design
+V1.2 - Almost mirrored design of original (for Rostock)
+
+Material: FR4 1oz 2layers 1.6mm
+
+* It is no longer made as Toshiba TLP841 photointerrupter is discontinued product.
+

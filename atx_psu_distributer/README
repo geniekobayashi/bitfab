@@ -1,0 +1,14 @@
+ATX power distributer design for RepRap 3D printer.
+
+Referenced to ATX12V Power Supply Design Guide.
+http://www.formfactors.org/developer/specs/ATX12V%20PSDG2.01.pdf
+
+Inspired by UltiMachine ATX PSU Dev Board.
+https://ultimachine.com/content/atx-psu-dev-board
+
+Cad Data: EAGLE version 6.4
+V1.0 - Dual DC12V output
+V2.0 - Triple DC12V output
+
+Material: FR4 1oz 2layers 1.6mm
+
